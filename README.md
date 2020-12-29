@@ -1,3 +1,4 @@
-# Dados_python
-TODOS OS CRÉDITOS VÃO PARA O PROFESSOR DO CURSO : https://www.udemy.com/course/cientista-de-dados/
+**Curso Ciencia de dados em Python** 
 
+-Ideias de Códigos retirados do curso : https://www.udemy.com/course/cientista-de-dados
+-Branch Defaut: "Master" 
